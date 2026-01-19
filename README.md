@@ -10,17 +10,17 @@
 ## Whole Frames (Tree Constructure)
 
 ### Turtlebot3 DQN
-Based on Turtlebot3 DQN type 1 on https:// ~
+Based on Turtlebot3 DQN type 1 on
+> https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning
 
-`python3
-DQN_Finetuning_Agent
-ㄴDQN_Finetuning_Gazebo
-ㄴDQN_Finetuning_Environment
+- DQN_Finetuning_Agent (dqn_agent)
+- DQN_Finetuning_Gazebo (gazebo_interface)
+- DQN_Finetuning_Environment (rl_environment)
 
-Best_model.h5
-ㄴDQN_Test_Node # on gazebo
-ㄴTurtlebot3 # on real
-`
+- After get 'Best_model.h5' ...
+- DQN_Test_Node (for gazebo)
+- driving_node (for real)
+
 ### Finetuning
 
 
