@@ -38,15 +38,15 @@ DQN_agent Improvements
 ## Logs
 Whole Improvements logs
 
-1.10 Add Model Checkpoints on _agent.py_
-1.11 Model Test #1
-1.12 First Improving Reward logic on _envrionment.py_
-1.13 Enhancing Reward logic on _envrionment.py_ & Model Test #2
-1.14 Second Enhancing Reward logic on _envrionmnet.py_
-1.15 Add _'YOLO detecting'_ on _environment.py_
-1.16 Model Test #3
-1.17 Third Enhancing Reward logic on _envrionmnet.py_
-1.18 Model Test #4
+* 1.10 Add Model Checkpoints on _agent.py_
+* 1.11 Model Test #1
+* 1.12 First Improving Reward logic on _envrionment.py_
+* 1.13 Enhancing Reward logic on _envrionment.py_ & Model Test #2
+* 1.14 Second Enhancing Reward logic on _envrionmnet.py_
+* 1.15 Add _'YOLO detecting'_ on _environment.py_
+* 1.16 Model Test #3
+* 1.17 Third Enhancing Reward logic on _envrionmnet.py_
+* 1.18 Model Test #4
 
 ## References
 > https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning
