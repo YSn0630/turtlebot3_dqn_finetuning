@@ -12,9 +12,13 @@
 ### Turtlebot3 DQN
 Based on Turtlebot3 DQN type 1 on https:// ~
 
-DQN_Finetuning_Agent - Best_model.h5 - DQN_Test_Node '''on gazebo'''
-ㄴDQN_Finetuning_Gazebo              ㄴTurtlebot3 '''on real'''
+DQN_Finetuning_Agent
+ㄴDQN_Finetuning_Gazebo
 ㄴDQN_Finetuning_Environment
+
+Best_model.h5
+ㄴDQN_Test_Node '''on gazebo'''
+ㄴTurtlebot3 '''on real'''
 
 ### Finetuning
 
